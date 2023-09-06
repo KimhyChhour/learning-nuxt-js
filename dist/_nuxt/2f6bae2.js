@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{367:function(e,n,t){"use strict";t.r(n);var l={},o=t(46),component=Object(o.a)(l,(function(){var e=this,n=e._self._c;return n("div",[n("h1",[e._v("Dynamic Routes")]),e._v(" "),n("p",[e._v("Hey! This is the slug for this page: "+e._s(e.$route.params.slug))])])}),[],!1,null,null,null);n.default=component.exports}}]);

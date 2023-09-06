@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{369:function(t,n,e){"use strict";e.r(n);var o=e(46),component=Object(o.a)({},(function(){this._self._c;return this._m(0)}),[function(){var t=this._self._c;return t("footer",[t("p",[this._v("© copyright 2023")])])}],!1,null,null,null);n.default=component.exports}}]);
